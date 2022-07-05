@@ -19,23 +19,23 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is Yana V5🔥
-Saya di buat oleh owner Abrul gans😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is BOTz🔥
+Saya di buat oleh owner Khalif` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+6285783062411'] //Owner number in aive msg
-global.premium = ['+6285783062411'] //Owner Number info
-global.ownernomer = '+6285783062411' //Owner Number <<<
+global.owner = ['6281315017916'] //Owner number in aive msg
+global.premium = ['6281315017916'] //Owner Number info
+global.ownernomer = '6281315017916' //Owner Number <<<
 
-global.ownername = '😎Abrulgans' //Owner Name
-global.botname = ' ☬Yana༒V5࿐' //Bot Name
+global.ownername = 'Khalif' //Owner Name
+global.botname = 'BOTz' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/EC-ll_g9I' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Indonesia, Sulawesi Tengah, Palu' //Country Region
 
-global.packname = '☬Yana༒V5࿐' //Bot Pacage Name
-global.author = '😎Yana x Abrul❯❯' //Author Name
+global.packname = 'BOTz' //Bot Pacage Name
+global.author = 'Khalif' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
